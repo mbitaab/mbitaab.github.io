@@ -20,11 +20,11 @@ My name is Marzieh Bitaab. I'm a first year Ph.D. student at Arizona State Unive
 
 ## Publications
 
-Scam Pandemic: How Attackers Exploit Public Fear through Phishing.
+**Scam Pandemic: How Attackers Exploit Public Fear through Phishing.**
 in the Proceedings of the 2020 APWG Symposium on Electronic Crime Research (eCrime), Online, Nov 2020   
 Marzieh Bitaab, Haehyun Cho, Adam Oest, Penghui Zhang, Zhibo Sun, Rana Pourmohamad, Doowon Kim, Tiffany Bao, Ruoyu Wang, Yan Shoshitaishvili, Adam Doupé, and Gail-Joon Ahn.
 
-Hybrid intrusion detection: Combining decision tree and gaussian mixture model.
+**Hybrid intrusion detection: Combining decision tree and gaussian mixture model.**
 in the Proceedings of thr\e 14th International Iranian Society of Cryptology Conference on Information Security and Cryptology (ISCISC), Sep 2017.   
 Marzieh Bitaab, and Sattar Hashemi.
 
