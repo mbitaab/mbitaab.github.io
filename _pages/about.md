@@ -9,13 +9,13 @@ redirect_from:
 
 Hi!   
    
-My name is Marzieh Bitaab. I'm a first year Ph.D. student at Arizona State University doing research at the [SEFCOM Lab](https://sefcom.asu.edu/) under the supervision of Dr. Adam Doupé and Dr. Yan Shoshitaishvili. My research interests mainly lies in the field of adversarial machine learning and analyzing security issues in a wide range of topics.
+My name is Marzieh Bitaab. I'm a second year Ph.D. student at Arizona State University doing research at the [SEFCOM Lab](https://sefcom.asu.edu/) under the supervision of Dr. Adam Doupé and Dr. Yan Shoshitaishvili. My research interests mainly lies in the field of adversarial machine learning and analyzing security issues in a wide range of topics.
 
 
 ## Education
-* B.S. in Computer Science, Shiraz University, 2015
-* M.S. in Computer Science, Shiraz University, 2018
-* Ph.D in Computer Science, Arizona State University, 2024 (expected)
+* B.Sc. in Computer Science, Shiraz University, 2015
+* M.Sc. in Computer Science, Shiraz University, 2018
+* Ph.D. in Computer Science, Arizona State University, 2024 (expected)
 
 
 ## Publications
