@@ -20,6 +20,11 @@ My name is Marzieh Bitaab. I'm a second year Ph.D. student at Arizona State Univ
 
 ## Publications
 
+**ParsiNLU: A Suite of Language Understanding Challenges for Persian.** arXiv preprint, Dec 2020
+Daniel Khashabi, Arman Cohan, Siamak Shakeri, Pedram Hosseini, Pouya Pezeshkpour, Malihe Alikhani, Moin Aminnaseri, **Marzieh Bitaab**, Faeze Brahman, Sarik Ghazarian, Mozhdeh Gheini, Arman Kabiri, Rabeeh Karimi Mahabadi, Omid Memarrast, Ahmadreza Mosallanezhad, Erfan Noury, Shahab Raji, Mohammad Sadegh Rasooli, Sepideh Sadeghi, Erfan Sadeqi Azer, Niloofar Safi Samghabadi, Mahsa Shafaei, Saber Sheybani, Ali Tazarv, Yadollah Yaghoobzadeh
+
+Download paper [here](https://arxiv.org/pdf/2012.06154.pdf)
+
 **Scam Pandemic: How Attackers Exploit Public Fear through Phishing.**
 in the Proceedings of the 2020 APWG Symposium on Electronic Crime Research (eCrime), Online, Nov 2020   
 **Marzieh Bitaab**, Haehyun Cho, Adam Oest, Penghui Zhang, Zhibo Sun, Rana Pourmohamad, Doowon Kim, Tiffany Bao, Ruoyu Wang, Yan Shoshitaishvili, Adam Doupé, and Gail-Joon Ahn.
@@ -31,9 +36,3 @@ in the Proceedings of the 14th International Iranian Society of Cryptology Confe
 **Marzieh Bitaab**, and Sattar Hashemi.
 
 Download paper [here](http://mbitaab.github.io/files/intrusiondetection.pdf)
-
-
-**ParsiNLU: A Suite of Language Understanding Challenges for Persian.** arXiv preprint, Dec 2020
-Daniel Khashabi, Arman Cohan, Siamak Shakeri, Pedram Hosseini, Pouya Pezeshkpour, Malihe Alikhani, Moin Aminnaseri, **Marzieh Bitaab**, Faeze Brahman, Sarik Ghazarian, Mozhdeh Gheini, Arman Kabiri, Rabeeh Karimi Mahabadi, Omid Memarrast, Ahmadreza Mosallanezhad, Erfan Noury, Shahab Raji, Mohammad Sadegh Rasooli, Sepideh Sadeghi, Erfan Sadeqi Azer, Niloofar Safi Samghabadi, Mahsa Shafaei, Saber Sheybani, Ali Tazarv, Yadollah Yaghoobzadeh
-
-Download paper [here](https://arxiv.org/pdf/2012.06154.pdf)
