@@ -31,3 +31,8 @@ in the Proceedings of the 14th International Iranian Society of Cryptology Confe
 **Marzieh Bitaab**, and Sattar Hashemi.
 
 Download paper [here](http://mbitaab.github.io/files/intrusiondetection.pdf)
+
+
+**ParsiNLU: A Suite of Language Understanding Challenges for Persian.** arXiv preprint, Dec 2020
+Daniel Khashabi, Arman Cohan, Siamak Shakeri, Pedram Hosseini, Pouya Pezeshkpour, Malihe Alikhani, Moin Aminnaseri, **Marzieh Bitaab**, Faeze Brahman, Sarik Ghazarian, Mozhdeh Gheini, Arman Kabiri, Rabeeh Karimi Mahabadi, Omid Memarrast, Ahmadreza Mosallanezhad, Erfan Noury, Shahab Raji, Mohammad Sadegh Rasooli, Sepideh Sadeghi, Erfan Sadeqi Azer, Niloofar Safi Samghabadi, Mahsa Shafaei, Saber Sheybani, Ali Tazarv, Yadollah Yaghoobzadeh
+Download paper [here](https://arxiv.org/pdf/2012.06154.pdf)
