@@ -21,7 +21,7 @@ My resume is available [here](https://mbitaab.github.io/files/MarziehBitaab-Resu
 
 ## Publications
 
-**ParsiNLU: A Suite of Language Understanding Challenges for Persian.** arXiv preprint, Dec 2020 <br />
+**ParsiNLU: A Suite of Language Understanding Challenges for Persian.** TACL <br />
 Daniel Khashabi, Arman Cohan, Siamak Shakeri, Pedram Hosseini, Pouya Pezeshkpour, Malihe Alikhani, Moin Aminnaseri, **Marzieh Bitaab**, Faeze Brahman, Sarik Ghazarian, Mozhdeh Gheini, Arman Kabiri, Rabeeh Karimi Mahabadi, Omid Memarrast, Ahmadreza Mosallanezhad, Erfan Noury, Shahab Raji, Mohammad Sadegh Rasooli, Sepideh Sadeghi, Erfan Sadeqi Azer, Niloofar Safi Samghabadi, Mahsa Shafaei, Saber Sheybani, Ali Tazarv, Yadollah Yaghoobzadeh
 
 Download paper [here](https://arxiv.org/pdf/2012.06154.pdf)
