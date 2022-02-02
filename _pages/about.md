@@ -11,7 +11,7 @@ Hi!
    
 My name is Marzieh Bitaab. I'm a Ph.D. student at Arizona State University doing research at the [SEFCOM Lab](https://sefcom.asu.edu/) under the supervision of [Dr. Adam Doupé](https://adamdoupe.com/) and [Dr. Yan Shoshitaishvili](https://yancomm.net/). My research interests mainly lies in the field of machine learning and analyzing security issues in a wide range of topics.
 
-My resume is available [here](https://mbitaab.github.io/files/MarziehBitaab-Resume.pdf) (updated 12/23/2021).
+My resume is available [here](https://mbitaab.github.io/files/MarziehBitaab-Resume.pdf).
 
 ## Education
 * B.Sc. in Computer Science, Shiraz University, 2015
