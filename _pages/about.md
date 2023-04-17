@@ -21,25 +21,19 @@ My resume is available [here](https://mbitaab.github.io/files/MarziehBitaab-Resu
 
 ## Publications
 
-Download paper [here](http://mbitaab.github.io/files/beyondphish.pdf)
-
-**BEYOND PHISH: Toward Detecting Fraudulent e-Commerce Websites at Scale.**
-In the Proceedings of the 44th IEEE Symposium on Security & Privacy, May 2023,San Francisco, CA.   
-**Marzieh Bitaab**, Haehyun Cho, Adam Oest, Zhuoer Lyu, Wei Wang, Jorij Abraham, Ruoyu Wang, Tiffany Bao, Yan Shoshitaishvili, Adam Doupé, and Gail-Joon Ahn.
-
 **ParsiNLU: A Suite of Language Understanding Challenges for Persian.** TACL <br />
 Daniel Khashabi, Arman Cohan, Siamak Shakeri, Pedram Hosseini, Pouya Pezeshkpour, Malihe Alikhani, Moin Aminnaseri, **Marzieh Bitaab**, Faeze Brahman, Sarik Ghazarian, Mozhdeh Gheini, Arman Kabiri, Rabeeh Karimi Mahabadi, Omid Memarrast, Ahmadreza Mosallanezhad, Erfan Noury, Shahab Raji, Mohammad Sadegh Rasooli, Sepideh Sadeghi, Erfan Sadeqi Azer, Niloofar Safi Samghabadi, Mahsa Shafaei, Saber Sheybani, Ali Tazarv, Yadollah Yaghoobzadeh
 
 Download paper [here](https://arxiv.org/pdf/2012.06154.pdf)
 
 **Scam Pandemic: How Attackers Exploit Public Fear through Phishing.**
-In the Proceedings of the 2020 APWG Symposium on Electronic Crime Research (eCrime), Online, Nov 2020   
+in the Proceedings of the 2020 APWG Symposium on Electronic Crime Research (eCrime), Online, Nov 2020   
 **Marzieh Bitaab**, Haehyun Cho, Adam Oest, Penghui Zhang, Zhibo Sun, Rana Pourmohamad, Doowon Kim, Tiffany Bao, Ruoyu Wang, Yan Shoshitaishvili, Adam Doupé, and Gail-Joon Ahn.
 
 Download paper [here](http://mbitaab.github.io/files/scam_pandemic.pdf)
 
 **Hybrid intrusion detection: Combining decision tree and gaussian mixture model.**
-In the Proceedings of the 14th International Iranian Society of Cryptology Conference on Information Security and Cryptology (ISCISC), Sep 2017.   
+in the Proceedings of the 14th International Iranian Society of Cryptology Conference on Information Security and Cryptology (ISCISC), Sep 2017.   
 **Marzieh Bitaab**, and Sattar Hashemi.
 
 Download paper [here](http://mbitaab.github.io/files/intrusiondetection.pdf)
