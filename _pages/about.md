@@ -21,11 +21,11 @@ My resume is available [here](https://mbitaab.github.io/files/MarziehBitaab-Resu
 
 ## Publications
 
-Download paper [here](http://mbitaab.github.io/files/beyondphish.pdf)
-
-**BEYOND PHISH: Toward Detecting Fraudulent e-Commerce Websites at Scale.**
+**Beyond Phish: Toward Detecting Fraudulent e-Commerce Websites at Scale.**
 In the Proceedings of the 44th IEEE Symposium on Security & Privacy, May 2023,San Francisco, CA.   
 **Marzieh Bitaab**, Haehyun Cho, Adam Oest, Zhuoer Lyu, Wei Wang, Jorij Abraham, Ruoyu Wang, Tiffany Bao, Yan Shoshitaishvili, Adam Doupé, and Gail-Joon Ahn.
+
+Download paper [here](http://mbitaab.github.io/files/beyondphish.pdf)
 
 **ParsiNLU: A Suite of Language Understanding Challenges for Persian.** TACL <br />
 Daniel Khashabi, Arman Cohan, Siamak Shakeri, Pedram Hosseini, Pouya Pezeshkpour, Malihe Alikhani, Moin Aminnaseri, **Marzieh Bitaab**, Faeze Brahman, Sarik Ghazarian, Mozhdeh Gheini, Arman Kabiri, Rabeeh Karimi Mahabadi, Omid Memarrast, Ahmadreza Mosallanezhad, Erfan Noury, Shahab Raji, Mohammad Sadegh Rasooli, Sepideh Sadeghi, Erfan Sadeqi Azer, Niloofar Safi Samghabadi, Mahsa Shafaei, Saber Sheybani, Ali Tazarv, Yadollah Yaghoobzadeh
