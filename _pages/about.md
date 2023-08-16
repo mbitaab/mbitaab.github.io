@@ -16,7 +16,7 @@ My resume is available [here](https://mbitaab.github.io/files/MarziehBitaab-Resu
 ## Education
 * B.Sc. in Computer Science, Shiraz University, 2015
 * M.Sc. in Computer Science, Shiraz University, 2018
-* Ph.D. in Computer Science, Arizona State University, 2023 (expected)
+* Ph.D. in Computer Science, Arizona State University, 2024 (expected)
 
 
 ## Publications
