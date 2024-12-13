@@ -19,11 +19,17 @@ My resume is available [here](https://mbitaab.github.io/files/MarziehBitaab-Resu
 * Ph.D. in Computer Science, Arizona State University, 2024 (expected)
 
 
-## Publications
+## Selected Publications
+
+**SCAMMAGNIFIER: Piercing the Veil of Fraudulent Shopping Website Campaigns.**
+In the Proceedings of Network and Distributed System Security Symposium (NDSS) 2025,San Diego CA.   
+**Marzieh Bitaab**,  Alireza Karimi Zhuoer Lyu, Adam Oest, Dhruv Kuchhal, Muhammad Saad, Gail-Joon Ahn,Ruoyu Wang, Tiffany Bao, Yan Shoshitaishvili, Adam Doupé.
+
+Download paper [here](http://mbitaab.github.io/files/scammagnifier.pdf)
 
 **Beyond Phish: Toward Detecting Fraudulent e-Commerce Websites at Scale.**
 In the Proceedings of the 44th IEEE Symposium on Security & Privacy, May 2023,San Francisco, CA.   
-**Marzieh Bitaab**, Haehyun Cho, Adam Oest, Zhuoer Lyu, Wei Wang, Jorij Abraham, Ruoyu Wang, Tiffany Bao, Yan Shoshitaishvili, Adam Doupé, and Gail-Joon Ahn.
+**Marzieh Bitaab**, Haehyun Cho, Adam Oest, Zhuoer Lyu, Wei Wang, Jorij Abraham, Ruoyu Wang, Tiffany Bao, Yan Shoshitaishvili, Adam Doupé.
 
 Download paper [here](http://mbitaab.github.io/files/beyondphish.pdf)
 
@@ -37,9 +43,3 @@ In the Proceedings of the 2020 APWG Symposium on Electronic Crime Research (eCri
 **Marzieh Bitaab**, Haehyun Cho, Adam Oest, Penghui Zhang, Zhibo Sun, Rana Pourmohamad, Doowon Kim, Tiffany Bao, Ruoyu Wang, Yan Shoshitaishvili, Adam Doupé, and Gail-Joon Ahn.
 
 Download paper [here](http://mbitaab.github.io/files/scam_pandemic.pdf)
-
-**Hybrid intrusion detection: Combining decision tree and gaussian mixture model.**
-In the Proceedings of the 14th International Iranian Society of Cryptology Conference on Information Security and Cryptology (ISCISC), Sep 2017.   
-**Marzieh Bitaab**, and Sattar Hashemi.
-
-Download paper [here](http://mbitaab.github.io/files/intrusiondetection.pdf)
